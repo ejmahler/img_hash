@@ -52,7 +52,7 @@ pub use serialize::base64::FromBase64Error;
 
 use bit_vec::BitVec;
 
-use dct::dct_2d;
+pub use dct::dct_2d;
 
 use std::{fmt, hash, ops};
 

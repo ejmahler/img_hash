@@ -26,6 +26,7 @@ rustc-serialize = "0.3"
 [dev-dependencies]
 rand = "0.3"
 image = ">=0.10, <=0.19"
+rustdct = "0.3"
 
 [dependencies.image]
 version = ">=0.10, <=0.19"
